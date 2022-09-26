@@ -1,12 +1,10 @@
-package com.company.dontusethisoneeither;
+package com.company.kaprekarsconstant;
 
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.*;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Main {
 

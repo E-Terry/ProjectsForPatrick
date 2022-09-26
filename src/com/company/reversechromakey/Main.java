@@ -1,4 +1,4 @@
-package com.company.dontusethissoftware;
+package com.company.reversechromakey;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
